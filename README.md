@@ -1,8 +1,23 @@
 # CrowdSec Dashboard
 
 A modern, open-source monitoring dashboard for CrowdSec built with Next.js, TypeScript, and CrowdSec LAPI.
+## Screenshots
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Alerts
+![Alerts](./screenshots/alerts.png)
+
+### Decisions
+![Decisions](./screenshots/decisions.png)
+
+### Machines
+![Machines](./screenshots/machines.png)
+
+### System Health
+![System Health](./screenshots/system.png)
+
 
 ## Overview
 
